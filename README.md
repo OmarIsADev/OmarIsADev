@@ -8,6 +8,10 @@ I'm 17 years old
 From Egyptian
 And i have passion in programming
 
+<a href="https://github.com/madkour17">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerlord295&layout=compact&theme=radical" />
+</a>
+
 ### Languages
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
