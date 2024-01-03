@@ -15,7 +15,7 @@ And i have passion in programming
 ![vuedotjs](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![supabase](https://img.shields.io/badge/supabase-4FC08D?style=for-the-badge&logo=supabase&logoColor=white)
 ![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![tailwind-css](https://img.shields.io/badge/tailwindcss-#06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <!--
 **gamerlord295/gamerlord295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
