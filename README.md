@@ -1,9 +1,9 @@
-### Hi there 👋, It's Omar.
+# Hi there 👋, It's Omar.
 I'm a Fullstack Web and Mobile native developer. 
 
 Currently working on a social media website called postsstream!
 
-### About me ❔
+## About me ❔
 I'm 17 years old
 From Egyptian
 And i have passion in programming
