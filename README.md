@@ -9,7 +9,9 @@ From Egyptian
 And i have passion in programming
 
 ### Skills
+![nextdotjs](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=blue)
+![nuxtdotjs](https://img.shields.io/badge/nuxtjs-4FC08D?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![vuedotjs](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 <!--
 **gamerlord295/gamerlord295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
