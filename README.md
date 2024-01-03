@@ -10,7 +10,7 @@ And i have passion in programming
 
 ### Skills
 ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=blue)
-![vuedotjs](https://img.shields.io/badge/vue-000000?style=for-the-badge&logo=vuedotjs)
+![vuedotjs](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs)
 <!--
 **gamerlord295/gamerlord295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
