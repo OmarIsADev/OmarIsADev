@@ -1,17 +1,19 @@
 # Hi there 👋, It's Omar.
 I'm a Fullstack Web and Mobile native developer. 
 
-Currently working on a social media website called postsstream!
+Currently working on a social media App called postsstream!
 
 ## About me ❔
-I'm 17 years old
-From Egypt
-And i have passion in programming
+I have passion in programming
 
 ### Languages
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Skills
+Fullstack Web development
+
+Mobile native
+
 ![nextdotjs](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=blue)
 ![nuxtdotjs](https://img.shields.io/badge/nuxt-4FC08D?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
