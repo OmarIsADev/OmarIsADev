@@ -1,7 +1,7 @@
 # Hi there 👋, It's Omar.
 I'm a Fullstack Web and Mobile native developer. 
 
-Currently working on a social media App called postsstream!
+Currently working on a social media website called Formuia!
 
 ## About me ❔
 I have passion in programming
@@ -9,6 +9,7 @@ I have passion in programming
 ### Languages
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![c++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 
 ### Skills
