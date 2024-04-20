@@ -7,23 +7,23 @@ Currently working on a social media website called Formuia!
 I have passion in programming
 
 ### Languages
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![c++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
 
 ### Skills
-Fullstack Web development
+Fullstack Web development and Mobile native
 
-Mobile native
-
-![nextdotjs](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=blue)
-![nuxtdotjs](https://img.shields.io/badge/nuxt-4FC08D?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![vuedotjs](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![supabase](https://img.shields.io/badge/supabase-4FC08D?style=for-the-badge&logo=supabase&logoColor=white)
-![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Nextdotjs](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=blue)
+![Nuxtdotjs](https://img.shields.io/badge/nuxt-4FC08D?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Vuedotjs](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
+![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/supabase-4FC08D?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <!--
 **gamerlord295/gamerlord295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
